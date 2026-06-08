@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Sistema de Predicción y Análisis de Riesgos de Eventos Asegurados
+# Sistema de Predicción y Análisis de Riesgos de Eventos Asegurados
 
 [![Java](https://img.shields.io/badge/Java-Swing-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/MariaDB-10.4-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Descripción General
+## Descripción General
 
 Este sistema es una **aplicación de escritorio integral** orientada a la industria de seguros. Su objetivo es automatizar el registro, la consulta y el análisis de riesgos sobre bienes y clientes asegurados.
 
@@ -22,7 +22,7 @@ El núcleo del proyecto combina el desarrollo de software con la **ciencia actua
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 | Objetivo | Descripción |
 |---|---|
@@ -32,7 +32,7 @@ El núcleo del proyecto combina el desarrollo de software con la **ciencia actua
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 | Capa | Tecnología | Propósito |
 |---|---|---|
@@ -44,7 +44,7 @@ El núcleo del proyecto combina el desarrollo de software con la **ciencia actua
 
 ---
 
-## 🗄️ Modelo de Base de Datos
+## Modelo de Base de Datos
 
 La base de datos `Proyecto_final` se diseñó bajo una **arquitectura relacional** con integridad referencial completa mediante `ON DELETE CASCADE / ON UPDATE CASCADE`.
 
@@ -159,7 +159,7 @@ La base de datos `Proyecto_final` se diseñó bajo una **arquitectura relacional
 
 ---
 
-## 📊 Lógica Actuarial — Queries del Sistema
+## Lógica Actuarial — Queries del Sistema
 
 ### 1. Riesgos Dominantes por Tipo de Bien
 
@@ -228,7 +228,7 @@ LIMIT 1;
 
 ---
 
-## 🖥️ Módulos de la Interfaz (GUI)
+## Módulos de la Interfaz (GUI)
 
 La aplicación cuenta con una interfaz gráfica modular desarrollada en **Java Swing**:
 
@@ -239,7 +239,7 @@ La aplicación cuenta con una interfaz gráfica modular desarrollada en **Java S
 
 ---
 
-## 🚀 Instalación y Configuración
+## Instalación y Configuración
 
 ### Prerrequisitos
 
@@ -284,7 +284,7 @@ La aplicación cuenta con una interfaz gráfica modular desarrollada en **Java S
 
 ---
 
-## 🧠 Competencias Demostradas
+## Competencias Demostradas
 
 - **Diseño Relacional** — Normalización, integridad referencial (`CASCADE`), índices compuestos y claves foráneas múltiples.
 - **Pensamiento Actuarial Aplicado** — Traducción de los modelos de frecuencia-severidad a queries SQL automatizadas y funcionales.
@@ -293,7 +293,7 @@ La aplicación cuenta con una interfaz gráfica modular desarrollada en **Java S
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Distribuido bajo la licencia **MIT**. Consulta el archivo [`LICENSE`](LICENSE) para más detalles.
 
